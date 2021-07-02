@@ -1,0 +1,16 @@
+<mvc:View
+    controllerName="projectpipercesar2021.controller.project_piper_cesar"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}123">
+					<content />
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
